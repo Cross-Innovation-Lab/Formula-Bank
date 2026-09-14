@@ -1,0 +1,6 @@
+{
+  "name": "no_channel_effects",
+  "channel_reflection_prob": 0.0,
+  "channel_bandlimit_prob": 0.0,
+  "channel_saturation_prob": 0.0
+}

@@ -1,0 +1,8 @@
+{
+  "name": "harmonic_single_event",
+  "source_count": 1,
+  "total_event_count": 1,
+  "events_per_source": 1,
+  "event_allocation": "equal_per_source",
+  "source_type_weights": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+}

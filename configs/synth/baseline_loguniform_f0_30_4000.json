@@ -1,0 +1,5 @@
+{
+  "name": "baseline_loguniform_f0_30_4000",
+  "f0_distribution": "log_uniform",
+  "f0_range_hz": [30.0, 4000.0]
+}

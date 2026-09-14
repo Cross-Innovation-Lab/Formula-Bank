@@ -1,0 +1,5 @@
+{
+  "name": "less_noise_floor",
+  "background_noise_prob": 0.50,
+  "snr_db": [15.0, 45.0]
+}

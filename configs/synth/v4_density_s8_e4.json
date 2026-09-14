@@ -1,0 +1,12 @@
+{
+  "name": "v4_density_s8_e4",
+  "source_count": 8,
+  "total_event_count": 32,
+  "events_per_source": 4,
+  "event_allocation": "equal_per_source",
+  "source_type_weights": [0.142857, 0.142857, 0.142857, 0.142857, 0.142857, 0.142857, 0.142858],
+  "transient_prob": 0.9,
+  "channel_reflection_prob": 0.0,
+  "channel_bandlimit_prob": 0.0,
+  "channel_saturation_prob": 0.0
+}

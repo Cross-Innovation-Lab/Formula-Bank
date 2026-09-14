@@ -1,0 +1,7 @@
+{
+  "name": "low_density",
+  "source_count_values": [1, 2, 3],
+  "source_count_weights": [0.60, 0.30, 0.10],
+  "event_count_values": [1, 2, 3],
+  "event_count_weights": [0.50, 0.35, 0.15]
+}

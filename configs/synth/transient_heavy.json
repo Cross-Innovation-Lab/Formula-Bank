@@ -1,0 +1,6 @@
+{
+  "name": "transient_heavy",
+  "source_type_weights": [0.12, 0.10, 0.12, 0.12, 0.12, 0.30, 0.12],
+  "transient_prob": 0.90,
+  "event_duration": [0.01, 1.5]
+}

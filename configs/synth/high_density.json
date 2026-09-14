@@ -1,0 +1,7 @@
+{
+  "name": "high_density",
+  "source_count_values": [4, 5, 6],
+  "source_count_weights": [0.35, 0.35, 0.30],
+  "event_count_values": [8, 12, 20],
+  "event_count_weights": [0.35, 0.35, 0.30]
+}

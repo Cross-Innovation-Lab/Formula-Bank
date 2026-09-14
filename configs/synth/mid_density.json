@@ -1,0 +1,7 @@
+{
+  "name": "mid_density",
+  "source_count_values": [2, 3, 4],
+  "source_count_weights": [0.30, 0.45, 0.25],
+  "event_count_values": [2, 3, 5, 8],
+  "event_count_weights": [0.25, 0.35, 0.25, 0.15]
+}
